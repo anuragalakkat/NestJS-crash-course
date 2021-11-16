@@ -1,3 +1,6 @@
+<h1>NestJS Crash Course - 2021</h1>
+<h3>https://www.youtube.com/watch?v=S0R82Osg-Mk</h3>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
